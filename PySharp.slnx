@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/PySharp.Sandbox/PySharp.Sandbox.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/PySharp/PySharp.csproj" />
+  </Folder>
+</Solution>
